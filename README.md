@@ -1,5 +1,8 @@
 # ATDD Accelerator Template - Multi Repo
 
+[![commit-stage-frontend](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/commit-stage-frontend.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/commit-stage-frontend.yml)
+[![commit-stage-backend](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/commit-stage-backend.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/commit-stage-backend.yml)
+
 ## License
 
 [![Unlicense](https://img.shields.io/badge/license-Unlicense-lightgrey.svg)](http://unlicense.org/)

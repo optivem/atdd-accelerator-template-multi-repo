@@ -10,7 +10,7 @@ services:
       - app-network
 
   backend:
-    image: ghcr.io/optivem/atdd-accelerator-template-multi-repo/backend:latest
+    image: ghcr.io/optivem/atdd-accelerator-template-multi-repo-backend/backend:latest
     ports:
       - "8081:8081"
     environment:

@@ -61,7 +61,7 @@ jobs:
           tag: ${{ inputs.version }}
           base-image-urls: |
             ghcr.io/${{ github.repository_owner }}/atdd-accelerator-template-multi-repo-frontend/frontend
-            ghcr.io/${{ github.repository_owner }}/${{ github.event.repository.name }}/backend
+            ghcr.io/${{ github.repository_owner }}/atdd-accelerator-template-multi-repo-backend/backend
 
   tag-docker-images:
     needs: [generate-production-version, check-release-exists, resolve-docker-images]

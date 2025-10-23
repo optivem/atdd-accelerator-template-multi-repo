@@ -5,6 +5,8 @@
 
 ## Repositories
 
+- [Frontend](https://github.com/optivem/atdd-accelerator-template-multi-repo-frontend)
+- [Backend](https://github.com/optivem/atdd-accelerator-template-multi-repo-backend)
 - [System Test](https://github.com/optivem/atdd-accelerator-template-multi-repo-system-test)
 - [System Pipeline](https://github.com/optivem/atdd-accelerator-template-multi-repo-system-pipeline)
 

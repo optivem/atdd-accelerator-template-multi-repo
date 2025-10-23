@@ -1,5 +1,6 @@
 # ATDD Accelerator Template - Multi Language
 
+[![commit-stage-frontend](https://github.com/optivem/atdd-accelerator-template-multi-repo-frontend/actions/workflows/commit-stage-frontend.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo-frontend/actions/workflows/commit-stage-frontend.yml)
 [![commit-stage-backend](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/commit-stage-backend.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/commit-stage-backend.yml)
 [![acceptance-stage](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/acceptance-stage.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/acceptance-stage.yml)
 [![qa-stage](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/qa-stage.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/qa-stage.yml)

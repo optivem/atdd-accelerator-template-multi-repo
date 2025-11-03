@@ -7,7 +7,7 @@
 [![qa-signoff](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/qa-signoff.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/qa-signoff.yml)
 [![prod-stage](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/prod-stage.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-multi-repo/actions/workflows/prod-stage.yml)
 
-## Components
+## Component Repositories
 
 - [Frontend](https://github.com/optivem/atdd-accelerator-template-multi-repo-frontend)
 - [Backend](https://github.com/optivem/atdd-accelerator-template-multi-repo-backend)
